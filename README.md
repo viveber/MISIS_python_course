@@ -14,6 +14,6 @@ For tasks from the Python course in MISIS (university)
 
 
 ## ДЗ 3
-[Тетрадь с домашним задаем 2](https://github.com/viveber/MISIS_python_course/blob/master/дз3.ipynb)
+[Тетрадь с домашним задаем 3](https://github.com/viveber/MISIS_python_course/blob/master/дз3.ipynb)
 
 /описание задач/
