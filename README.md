@@ -20,6 +20,6 @@ For tasks from the Python course in MISIS (university)
 
 
 ## ДЗ 4
-[Тетрадь с домашним задаем 4](https://github.com/viveber/MISIS_python_course/blob/master/дз4.ipynb)
+[Тетрадь с домашним задаем 4](https://github.com/viveber/MISIS_python_course/blob/master/дз%204.ipynb)
 
 /описание задач/
