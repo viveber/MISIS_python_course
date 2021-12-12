@@ -23,3 +23,9 @@ For tasks from the Python course in MISIS (university)
 [Тетрадь с домашним задаем 4](https://github.com/viveber/MISIS_python_course/blob/master/дз%204.ipynb)
 
 /описание задач/
+
+
+## ДЗ 5
+[Тетрадь с домашним задаем 5](https://github.com/viveber/MISIS_python_course/blob/master/дз5.ipynb)
+
+/описание задач/
