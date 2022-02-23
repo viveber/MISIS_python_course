@@ -2,6 +2,12 @@
 For tasks from the Python course in MISIS (university)
 
 ## Весенний семестр
+[Тетрадь с домашним задаем 1](https://github.com/viveber/MISIS_python_course/blob/master/весенний_семестр/HW_1.ipynb)
+* Связанные списки
+* работа с Pandas
+
+[Тетрадь с домашним задаем 2](https://github.com/viveber/MISIS_python_course/blob/master/весенний_семестр/HW_2.ipynb)
+* тут будет дз2
 
 ## Осенний семестр
 ### ДЗ 1
