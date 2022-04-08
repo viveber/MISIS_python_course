@@ -7,7 +7,7 @@ For tasks from the Python course in MISIS (university)
 * работа с Pandas
 
 [Тетрадь с домашним задаем 2 часть 1](https://github.com/viveber/MISIS_python_course/blob/master/весенний_семестр/HW_2_Pt_1.ipynb)
-* гипотезу по повышению accuracy и создание оберток для переиспользования кода
+* гипотезы по повышению accuracy и создание оберток для переиспользования кода
 
 [Тетрадь с домашним задаем 2 часть 2](https://github.com/viveber/MISIS_python_course/blob/master/весенний_семестр/HW_2_Part_2.ipynb)
 * тут будет часть 2 задания (финальный проект)
