@@ -12,6 +12,9 @@ For tasks from the Python course in MISIS (university)
 [Тетрадь с домашним задаем 2 часть 2](https://github.com/viveber/MISIS_python_course/blob/master/весенний_семестр/HW_2_Part_2.ipynb)
 * тут будет часть 2 задания (финальный проект)
 
+[Тетрадь с домашним задаем 3](https://github.com/viveber/MISIS_python_course/blob/master/весенний_семестр/HW_3.ipynb)
+* ABC анализ данных
+
 ## Осенний семестр
 ### ДЗ 1
 * [Перевод секунд в формат "дни-часы-минуты-секунды"](https://github.com/viveber/MISIS_python_course/blob/master/дз1/seconds.py)
