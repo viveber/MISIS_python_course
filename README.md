@@ -10,10 +10,13 @@ For tasks from the Python course in MISIS (university)
 * гипотезы по повышению accuracy и создание оберток для переиспользования кода
 
 [Тетрадь с домашним задаем 2 часть 2](https://github.com/viveber/MISIS_python_course/blob/master/весенний_семестр/HW_2_Part_2.ipynb)
-* тут будет часть 2 задания (финальный проект)
+* **Финальный проект семестра** - решение задач кластеризации и классификации на данных о владельцах кредитных карт для дальнейшей корректировки маркетинговой стратегии банка
 
 [Тетрадь с домашним задаем 3](https://github.com/viveber/MISIS_python_course/blob/master/весенний_семестр/HW_3.ipynb)
 * ABC анализ данных
+
+[Тетрадь с домашним задаем 4](https://github.com/viveber/MISIS_python_course/blob/master/весенний_семестр/HW_4.ipynb)
+* XGBoost 'tips' dataset
 
 ## Осенний семестр
 ### ДЗ 1
